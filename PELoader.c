@@ -1,7 +1,7 @@
 ﻿// PELoader.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
 //
 
-#include <iostream>
+#include <stdio.h>
 #include <Windows.h>
 
 typedef struct _REALOCATIONS {

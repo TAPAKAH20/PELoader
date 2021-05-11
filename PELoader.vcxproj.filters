@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="PELoader.cpp">
+    <ClCompile Include="PELoader.c">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
   </ItemGroup>
